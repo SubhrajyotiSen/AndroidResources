@@ -15,7 +15,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Custom Views](https://www.intertech.com/Blog/android-custom-view-tutorial-part-1-combining-existing-views/)     
 [Publish to MavenCentral](http://crushingcode.co/publish-your-android-library-via-mavencentral/)        
 [Realm Database](http://www.androidhive.info/2016/05/android-working-with-realm-database-replacing-sqlite-core-data/)    
-[SQLite](https://www.youtube.com/watch?v=0BUljVIgnoE)
+[SQLite](https://www.youtube.com/watch?v=0BUljVIgnoE)            
+[Tesing with MVP](https://www.youtube.com/watch?v=Asc4hU1iSTU)
 
 
 ##Libraries/ GitHub stuff
@@ -29,7 +30,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [TextDrawable](https://github.com/amulyakhare/TextDrawable)
 [Android Examples](https://github.com/nisrulz/android-examples)                
 [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)         
-[Awesome Android List](https://github.com/JStumpp/awesome-android)
+[Awesome Android List](https://github.com/JStumpp/awesome-android)           
+[BlurredView](https://github.com/wl9739/BlurredView)
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
