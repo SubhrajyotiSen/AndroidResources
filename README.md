@@ -8,7 +8,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [RecyclerView Item Animation](http://anthony-skr.com/article/recyclerview-items-animation-with-rebound-effect)     
 [Glide vs Picasso](https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)        
 [Chrome Custom Tabs](http://blog.grafixartist.com/google-chrome-custom-tabs-android-tutorial/)           
-[Circular Reveal](http://blog.grafixartist.com/circular-reveal-effect-like-whatsapp-in-android/)
+[Circular Reveal](http://blog.grafixartist.com/circular-reveal-effect-like-whatsapp-in-android/)           
+[Glide Caching Basics](https://futurestud.io/blog/glide-caching-basics)
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
@@ -31,7 +32,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Android Examples](https://github.com/nisrulz/android-examples)                
 [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)         
 [Awesome Android List](https://github.com/JStumpp/awesome-android)           
-[BlurredView](https://github.com/wl9739/BlurredView)
+[BlurredView](https://github.com/wl9739/BlurredView)          
+[EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)           
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
