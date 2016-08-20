@@ -35,7 +35,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Awesome Android List](https://github.com/JStumpp/awesome-android)           
 [BlurredView](https://github.com/wl9739/BlurredView)          
 [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)            
-[Firebase Cloud Messaging](https://github.com/nisrulz/android-examples/tree/master/FirebaseCloudMessaging)       
+[Firebase Cloud Messaging](https://github.com/nisrulz/android-examples/tree/master/FirebaseCloudMessaging)     
+[FlexibleAdapter](https://github.com/davideas/FlexibleAdapter)         
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
