@@ -18,8 +18,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Publish to MavenCentral](http://crushingcode.co/publish-your-android-library-via-mavencentral/)        
 [Realm Database](http://www.androidhive.info/2016/05/android-working-with-realm-database-replacing-sqlite-core-data/)    
 [SQLite](https://www.youtube.com/watch?v=0BUljVIgnoE)            
-[Tesing with MVP](https://www.youtube.com/watch?v=Asc4hU1iSTU)
-
+[Tesing with MVP](https://www.youtube.com/watch?v=Asc4hU1iSTU)     
+[Direct Reply on Nougat](https://www.evernote.com/shard/s42/sh/ee09155e-cdba-464e-9d43-12dabe010a29/8da35ee1cf9e6dab90a855ed489be638)
 
 ##Libraries/ GitHub stuff
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
@@ -34,7 +34,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)         
 [Awesome Android List](https://github.com/JStumpp/awesome-android)           
 [BlurredView](https://github.com/wl9739/BlurredView)          
-[EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)           
+[EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)            
+[Firebase Cloud Messaging](https://github.com/nisrulz/android-examples/tree/master/FirebaseCloudMessaging)       
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
