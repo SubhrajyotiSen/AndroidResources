@@ -10,7 +10,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Chrome Custom Tabs](http://blog.grafixartist.com/google-chrome-custom-tabs-android-tutorial/)           
 [Circular Reveal](http://blog.grafixartist.com/circular-reveal-effect-like-whatsapp-in-android/)           
 [Glide Caching Basics](https://futurestud.io/blog/glide-caching-basics)        
-[Crunching RxAndroid](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea#.x9k30h74a)
+[Crunching RxAndroid](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea#.x9k30h74a)      
+[30 things that experience made me learn the hard way](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.86xm614ke)     
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
@@ -37,6 +38,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)            
 [Firebase Cloud Messaging](https://github.com/nisrulz/android-examples/tree/master/FirebaseCloudMessaging)     
 [FlexibleAdapter](https://github.com/davideas/FlexibleAdapter)         
+[SwipeCards](https://github.com/Arjun-sna/android-swipecards-view)     
+[PasscodeView](https://github.com/Arjun-sna/android-passcodeview)
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
