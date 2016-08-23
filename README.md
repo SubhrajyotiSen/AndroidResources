@@ -20,7 +20,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Realm Database](http://www.androidhive.info/2016/05/android-working-with-realm-database-replacing-sqlite-core-data/)    
 [SQLite](https://www.youtube.com/watch?v=0BUljVIgnoE)            
 [Tesing with MVP](https://www.youtube.com/watch?v=Asc4hU1iSTU)     
-[Direct Reply on Nougat](http://iteachyouhowtocode.com/2016/08/22/you-can-reply-message-on-notification/)
+[Direct Reply on Nougat](http://iteachyouhowtocode.com/2016/08/22/you-can-reply-message-on-notification/)    
+[Firebase Backend Course](https://www.youtube.com/playlist?list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt)
 
 ##Libraries/ GitHub stuff
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
