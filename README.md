@@ -13,6 +13,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Crunching RxAndroid](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea#.x9k30h74a)      
 [30 things that experience made me learn the hard way](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.86xm614ke)     
 [Dagger 2 and MVP](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)     
+[ImageView ScaleType Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)    
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
