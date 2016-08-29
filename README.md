@@ -44,7 +44,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [SwipeCards](https://github.com/Arjun-sna/android-swipecards-view)     
 [PasscodeView](https://github.com/Arjun-sna/android-passcodeview)     
 [Floating Toolbar](https://github.com/rubensousa/FloatingToolbar)     
-[Kotlin Android Boilerplate](https://github.com/Plastix/Kotlin-Android-Boilerplate)     
+[Kotlin Android Boilerplate](https://github.com/Plastix/Kotlin-Android-Boilerplate)    
+[NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip)     
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
