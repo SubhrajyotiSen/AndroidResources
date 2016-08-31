@@ -14,6 +14,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [30 things that experience made me learn the hard way](https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.86xm614ke)     
 [Dagger 2 and MVP](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)     
 [ImageView ScaleType Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)    
+[RecyclerView Snaphelper](https://rubensousa.github.io/2016/08/recyclerviewsnap)
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
@@ -46,6 +47,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Floating Toolbar](https://github.com/rubensousa/FloatingToolbar)     
 [Kotlin Android Boilerplate](https://github.com/Plastix/Kotlin-Android-Boilerplate)    
 [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip)     
+[Expandable RecyclerView](https://github.com/thoughtbot/expandable-recycler-view)     
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
