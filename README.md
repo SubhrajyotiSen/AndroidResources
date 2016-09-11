@@ -15,7 +15,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Dagger 2 and MVP](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)     
 [ImageView ScaleType Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)    
 [RecyclerView Snaphelper](https://rubensousa.github.io/2016/08/recyclerviewsnap)       
-[FaceTracker](https://medium.com/@aitorvs/android-face-tracking-playground-62e1c44a698a#.igdi04j21)     
+[FaceTracker](https://medium.com/@aitorvs/android-face-tracking-playground-62e1c44a698a#.igdi04j21)    
+[Create screenshots programatically](https://kylewbanks.com/blog/create-a-screenshot-of-your-android-app-game-or-single-view-programmatically)
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
