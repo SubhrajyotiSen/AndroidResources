@@ -16,7 +16,9 @@ A collection of Android blogs, libraries, tutorials I found useful
 [ImageView ScaleType Visual Guide](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)    
 [RecyclerView Snaphelper](https://rubensousa.github.io/2016/08/recyclerviewsnap)       
 [FaceTracker](https://medium.com/@aitorvs/android-face-tracking-playground-62e1c44a698a#.igdi04j21)    
-[Create screenshots programatically](https://kylewbanks.com/blog/create-a-screenshot-of-your-android-app-game-or-single-view-programmatically)
+[Create screenshots programatically](https://kylewbanks.com/blog/create-a-screenshot-of-your-android-app-game-or-single-view-programmatically)      
+[Practical guide to Android testing with MVP](http://verybadalloc.com/android/adding-unit-tests-to-MVP-project.html)     
+[Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.5cn6jpkmg)    
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
@@ -51,7 +53,10 @@ A collection of Android blogs, libraries, tutorials I found useful
 [NavigationTabStrip](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip)     
 [Expandable RecyclerView](https://github.com/thoughtbot/expandable-recycler-view)     
 [FantasySlide](https://github.com/mzule/FantasySlide)       
-[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer) 
+[FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)     
+[TapTargetView](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.5cn6jpkmg)     
+[FlipShare](https://github.com/JeasonWong/FlipShare)       
+[WaveSideBar](https://github.com/gjiazhe/WaveSideBar)      
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
