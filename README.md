@@ -19,6 +19,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Create screenshots programatically](https://kylewbanks.com/blog/create-a-screenshot-of-your-android-app-game-or-single-view-programmatically)      
 [Practical guide to Android testing with MVP](http://verybadalloc.com/android/adding-unit-tests-to-MVP-project.html)     
 [Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.5cn6jpkmg)    
+[Data Binding](https://medium.com/google-developers/no-more-findviewbyid-457457644885)    
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
@@ -58,7 +59,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [FlipShare](https://github.com/JeasonWong/FlipShare)       
 [WaveSideBar](https://github.com/gjiazhe/WaveSideBar)      
 [LowPoly](https://github.com/CoXier/LowPoly/tree/master/app/src/main)     
-[GoogleClock](https://github.com/lypeer/GoogleClock)    
+[GoogleClock](https://github.com/lypeer/GoogleClock)      
+[AnimateVectorDrawableDEMO](https://github.com/ghuiii/AnimateVectorDrawableDEMO)
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
