@@ -29,7 +29,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [SQLite](https://www.youtube.com/watch?v=0BUljVIgnoE)            
 [Tesing with MVP](https://www.youtube.com/watch?v=Asc4hU1iSTU)     
 [Direct Reply on Nougat](http://iteachyouhowtocode.com/2016/08/22/you-can-reply-message-on-notification/)    
-[Firebase Backend Course](https://www.youtube.com/playlist?list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt)
+[Firebase Backend Course](https://www.youtube.com/playlist?list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt)      
+[Matrix Effect](http://forum.xda-developers.com/android/software/tutorial-learn-to-create-matrix-effect-t3469031)
 
 ##Libraries/ GitHub stuff
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
