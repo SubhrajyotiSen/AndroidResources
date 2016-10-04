@@ -61,7 +61,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [WaveSideBar](https://github.com/gjiazhe/WaveSideBar)      
 [LowPoly](https://github.com/CoXier/LowPoly/tree/master/app/src/main)     
 [GoogleClock](https://github.com/lypeer/GoogleClock)      
-[AnimateVectorDrawableDEMO](https://github.com/ghuiii/AnimateVectorDrawableDEMO)
+[AnimateVectorDrawableDEMO](https://github.com/ghuiii/AnimateVectorDrawableDEMO)       
+[SimpleChat - Chatroom using Firebase](https://github.com/AndreiD/SimpleChat)       
       
 ##StackOverflow       
 [AsyncTask](http://stackoverflow.com/questions/9671546/asynctask-android-example)       
