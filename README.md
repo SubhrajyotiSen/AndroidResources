@@ -30,7 +30,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Tesing with MVP](https://www.youtube.com/watch?v=Asc4hU1iSTU)     
 [Direct Reply on Nougat](http://iteachyouhowtocode.com/2016/08/22/you-can-reply-message-on-notification/)    
 [Firebase Backend Course](https://www.youtube.com/playlist?list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt)      
-[Matrix Effect](http://forum.xda-developers.com/android/software/tutorial-learn-to-create-matrix-effect-t3469031)
+[Matrix Effect](http://forum.xda-developers.com/android/software/tutorial-learn-to-create-matrix-effect-t3469031)       
+[Animated Vector Drawable](https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.9qm7zf4yj)
 
 ##Libraries/ GitHub stuff
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
