@@ -20,6 +20,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Practical guide to Android testing with MVP](http://verybadalloc.com/android/adding-unit-tests-to-MVP-project.html)     
 [Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.5cn6jpkmg)    
 [Data Binding](https://medium.com/google-developers/no-more-findviewbyid-457457644885)    
+[Introduction to Automated Android Testing](https://riggaroo.co.za/introduction-automated-android-testing/)      
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
@@ -62,7 +63,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [WaveSideBar](https://github.com/gjiazhe/WaveSideBar)      
 [LowPoly](https://github.com/CoXier/LowPoly/tree/master/app/src/main)     
 [AnimateVectorDrawableDEMO](https://github.com/ghuiii/AnimateVectorDrawableDEMO)       
-[CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)       
+[CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)    
+[CodeView](https://github.com/Softwee/codeview-android)    
 
 ##Interesting Apps     
 [CardKeeper](https://github.com/LateNightProductions/CardKeeper)      
