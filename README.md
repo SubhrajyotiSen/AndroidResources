@@ -32,7 +32,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Direct Reply on Nougat](http://iteachyouhowtocode.com/2016/08/22/you-can-reply-message-on-notification/)    
 [Firebase Backend Course](https://www.youtube.com/playlist?list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt)      
 [Matrix Effect](http://forum.xda-developers.com/android/software/tutorial-learn-to-create-matrix-effect-t3469031)       
-[Animated Vector Drawable](https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.9qm7zf4yj)
+[Animated Vector Drawable](https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.9qm7zf4yj)      
+[android-testing-guide](https://github.com/ravidsrk/android-testing-guide#junit-basics)
 
 ##Libraries/ GitHub stuff
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
@@ -65,6 +66,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [AnimateVectorDrawableDEMO](https://github.com/ghuiii/AnimateVectorDrawableDEMO)       
 [CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)    
 [CodeView](https://github.com/Softwee/codeview-android)    
+[Colorful](https://github.com/garretyoder/Colorful) 
 
 ##Interesting Apps     
 [CardKeeper](https://github.com/LateNightProductions/CardKeeper)      
