@@ -66,7 +66,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [AnimateVectorDrawableDEMO](https://github.com/ghuiii/AnimateVectorDrawableDEMO)       
 [CannyViewAnimator](https://github.com/LiveTyping/CannyViewAnimator)    
 [CodeView](https://github.com/Softwee/codeview-android)    
-[Colorful](https://github.com/garretyoder/Colorful) 
+[Colorful](https://github.com/garretyoder/Colorful)      
+[GPUImage](https://github.com/CyberAgent/android-gpuimage)     
 
 ##Interesting Apps     
 [CardKeeper](https://github.com/LateNightProductions/CardKeeper)      
