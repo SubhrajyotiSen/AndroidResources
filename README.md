@@ -71,7 +71,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Colorful](https://github.com/garretyoder/Colorful)      
 [GPUImage](https://github.com/CyberAgent/android-gpuimage)     
 [Android Testing Guide](https://ravidsrk.github.io/android-testing-guide/)     
-[SlidingSquaresLoader](https://github.com/biodunalfet/SlidingSquaresLoader)     
+[SlidingSquaresLoader](https://github.com/biodunalfet/SlidingSquaresLoader)    
+[ChatKit](https://github.com/stfalcon-studio/ChatKit) 
 
 ##Interesting Apps     
 [CardKeeper](https://github.com/LateNightProductions/CardKeeper)      
