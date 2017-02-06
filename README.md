@@ -34,7 +34,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Matrix Effect](http://forum.xda-developers.com/android/software/tutorial-learn-to-create-matrix-effect-t3469031)       
 [Animated Vector Drawable](https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.9qm7zf4yj)      
 [android-testing-guide](https://github.com/ravidsrk/android-testing-guide#junit-basics)    
-[RxAndroid](https://www.raywenderlich.com/141980/rxandroid-tutorial)
+[RxAndroid](https://www.raywenderlich.com/141980/rxandroid-tutorial)     
+[Dagger 2 Video Tutorial](https://www.youtube.com/watch?v=Qwk7ESmaCq0)     
 
 ##Libraries/ GitHub stuff
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
