@@ -70,6 +70,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [CodeView](https://github.com/Softwee/codeview-android)    
 [Colorful](https://github.com/garretyoder/Colorful)      
 [GPUImage](https://github.com/CyberAgent/android-gpuimage)     
+[Android Testing Guide](https://ravidsrk.github.io/android-testing-guide/)     
 
 ##Interesting Apps     
 [CardKeeper](https://github.com/LateNightProductions/CardKeeper)      
