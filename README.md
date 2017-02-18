@@ -20,7 +20,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Practical guide to Android testing with MVP](http://verybadalloc.com/android/adding-unit-tests-to-MVP-project.html)     
 [Animated icons on Android](https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.5cn6jpkmg)    
 [Data Binding](https://medium.com/google-developers/no-more-findviewbyid-457457644885)    
-[Introduction to Automated Android Testing](https://riggaroo.co.za/introduction-automated-android-testing/)      
+[Introduction to Automated Android Testing](https://riggaroo.co.za/introduction-automated-android-testing/)        
+[Dan Lew Codes](http://blog.danlew.net/)    
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
@@ -35,7 +36,8 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Animated Vector Drawable](https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.9qm7zf4yj)      
 [android-testing-guide](https://github.com/ravidsrk/android-testing-guide#junit-basics)    
 [RxAndroid](https://www.raywenderlich.com/141980/rxandroid-tutorial)     
-[Dagger 2 Video Tutorial](https://www.youtube.com/watch?v=Qwk7ESmaCq0)     
+[Dagger 2 Video Tutorial](https://www.youtube.com/watch?v=Qwk7ESmaCq0)      
+[Android Animation Tutorial](https://www.raywenderlich.com/128105/introduction-android-animations)
 
 ##Libraries/ GitHub stuff
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
@@ -72,13 +74,19 @@ A collection of Android blogs, libraries, tutorials I found useful
 [GPUImage](https://github.com/CyberAgent/android-gpuimage)     
 [Android Testing Guide](https://ravidsrk.github.io/android-testing-guide/)     
 [SlidingSquaresLoader](https://github.com/biodunalfet/SlidingSquaresLoader)    
-[ChatKit](https://github.com/stfalcon-studio/ChatKit) 
+[ChatKit](https://github.com/stfalcon-studio/ChatKit)     
+[AndroidNote](https://github.com/GcsSloop/AndroidNote)     
+[PinLockView](https://github.com/aritraroy/PinLockView)    
+[BlurKit-Android](https://github.com/flurgle/BlurKit-Android)      
+[Louvre](https://github.com/andremion/Louvre)     
+
 
 ##Interesting Apps     
 [CardKeeper](https://github.com/LateNightProductions/CardKeeper)      
 [SimpleChat - Chatroom using Firebase](https://github.com/AndreiD/SimpleChat)     
 [GoogleClock](https://github.com/lypeer/GoogleClock)      
-[UPES-SPE-Fest](https://github.com/Aniruddha-Tapas/UPES-SPE-Fest)     
+[UPES-SPE-Fest](https://github.com/Aniruddha-Tapas/UPES-SPE-Fest)      
+[Bolt](https://github.com/chi6rag/Bolt)      
 
 
 ##StackOverflow       
