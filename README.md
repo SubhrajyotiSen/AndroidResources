@@ -78,6 +78,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [CardKeeper](https://github.com/LateNightProductions/CardKeeper)      
 [SimpleChat - Chatroom using Firebase](https://github.com/AndreiD/SimpleChat)     
 [GoogleClock](https://github.com/lypeer/GoogleClock)      
+[UPES-SPE-Fest](https://github.com/Aniruddha-Tapas/UPES-SPE-Fest)     
 
 
 ##StackOverflow       
