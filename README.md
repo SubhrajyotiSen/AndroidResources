@@ -22,6 +22,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Data Binding](https://medium.com/google-developers/no-more-findviewbyid-457457644885)    
 [Introduction to Automated Android Testing](https://riggaroo.co.za/introduction-automated-android-testing/)        
 [Dan Lew Codes](http://blog.danlew.net/)    
+[MVP Guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf#.9z2vf62sf)     
 
 ##Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
