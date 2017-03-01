@@ -80,6 +80,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [PinLockView](https://github.com/aritraroy/PinLockView)    
 [BlurKit-Android](https://github.com/flurgle/BlurKit-Android)      
 [Louvre](https://github.com/andremion/Louvre)     
+[CameraKit](https://github.com/flurgle/CameraKit-Android)     
 
 
 ##Interesting Apps     
