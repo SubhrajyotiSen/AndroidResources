@@ -40,7 +40,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Dagger 2 Video Tutorial](https://www.youtube.com/watch?v=Qwk7ESmaCq0)      
 [Android Animation Tutorial](https://www.raywenderlich.com/128105/introduction-android-animations)
 
-##Libraries/ GitHub stuff
+## Libraries/ GitHub stuff     
 [ChatHeads](https://github.com/mollyIV/ChatHeads)            
 [Quality Matters](https://github.com/artem-zinnatullin/qualitymatters)            
 [Commonsguy Camera2](https://github.com/commonsguy/cwac-cam2)                
