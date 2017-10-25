@@ -23,6 +23,7 @@ A collection of Android blogs, libraries, tutorials I found useful
 [Introduction to Automated Android Testing](https://riggaroo.co.za/introduction-automated-android-testing/)        
 [Dan Lew Codes](http://blog.danlew.net/)    
 [MVP Guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf#.9z2vf62sf)     
+[TheRubberDuckDev](https://therubberduckdev.wordpress.com/)     
 
 ## Tutorials     
 [Twilio Push Notifications](https://www.twilio.com/blog/2016/05/how-to-add-push-notifications-to-android.html)     
